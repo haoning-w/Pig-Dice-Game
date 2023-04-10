@@ -17,3 +17,6 @@ The first player to score 100 or more points wins.
 - Simple interaction. Enter 'r' to roll a dice, or enter 'h' to hold score.
 - AI player. Let player2's name be AI and you can play with AI.
 - Graphic user interface. Not very fancy, but can display the information smoothly.
+
+# How to play
+open pig_dice_game.py, and just run it.
