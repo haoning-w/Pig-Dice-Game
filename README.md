@@ -19,4 +19,4 @@ The first player to score 100 or more points wins.
 - Graphic user interface. Not very fancy, but can display the information smoothly.
 
 # How to play
-open pig_dice_game.py, and just run it.
+open pig_dice_game.py in IDE, and just run it.
